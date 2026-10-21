@@ -1,5 +1,9 @@
 ---
 title: "karsynwong-frank-cell.github.io"
+image: media/D052.jpg
+toc: false 
+about:
+  template: trestles
 ---
 
 This is a Quarto website.
