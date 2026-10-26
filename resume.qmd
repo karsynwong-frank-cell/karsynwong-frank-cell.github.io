@@ -1,0 +1,6 @@
+---
+title: "karsyn wong-frank"
+---
+
+{{< pdf media/kwf_resume.pdf >}}
+{{< pdf media/kwf_resume.pdf width=100% height=800% >}}

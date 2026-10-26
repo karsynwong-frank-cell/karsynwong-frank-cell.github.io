@@ -11,6 +11,13 @@
     "href": "index.html",
     "title": "karsynwong-frank-cell.github.io",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "project: type: website output-dir: docs\nwebsite: # title: “Lehiwa Wong-Frank”” navbar: right: - href: index.qmd text: Home - about.qmd - resume.qmd - icon: github href: https://github.com/karsynwong-frank-cell target: blank page-footer: left: Copyright 2026, Lehiwa Wong-Frank right: This website is built with {{&lt; fa brands r-project title=\"R Project\" &gt;}}\nformat: html: theme: light: minty —\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "karsyn wong-frank",
+    "section": "",
+    "text": "Download PDF file. Download PDF file."
   }
 ]
