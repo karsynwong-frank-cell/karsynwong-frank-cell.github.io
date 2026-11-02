@@ -16,9 +16,8 @@ about:
 
 project: type: website output-dir: docs
 
-website: \# title: "Lehiwa Wong-Frank"" navbar: right: - href: index.qmd text: Home - about.qmd - resume.qmd - icon: github href: https://github.com/karsynwong-frank-cell target: blank page-footer: left: Copyright 2026, Lehiwa Wong-Frank right: This website is built with [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target="_blank"}
+website: \# title: "Lehiwa Wong-Frank"" I am a senior at Chaminade University of Honolulu majoring in Environmental Studies and a Minor in Data Science. This website is built with [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target="_blank"}
 
-format: html: theme: light: minty ---
 
 This is a Quarto website.
 
